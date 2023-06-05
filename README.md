@@ -38,4 +38,4 @@ pip install pydub
 11. Once all the files in the input directory are processed, the script finishes execution.
 
 Note: The script creates the output directory if it doesn't already exist.
-```
+
