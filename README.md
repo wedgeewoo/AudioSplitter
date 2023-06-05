@@ -1,4 +1,4 @@
-```markdown
+
 # Audio Splitter
 
 This script splits audio files into 5120 ms (5.12 seconds) chunks. It supports both mp3 and wav file formats.
